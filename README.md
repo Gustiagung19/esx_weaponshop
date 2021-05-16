@@ -1,5 +1,4 @@
 # esx_weaponshop
-![GitHub all releases](https://img.shields.io/github/downloads/Gustiagung19/esx_weaponshop/total)
 -----------------------------------------------------------
 Persyaratan :
 + es_extended
